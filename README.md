@@ -165,7 +165,7 @@ Users can input a website URL and receive a prediction result.
 ---
 
 ## Project Structure
-
+```
 Phishing-Website-Detection
 │
 ├── data
@@ -182,7 +182,7 @@ Phishing-Website-Detection
 ├── app.py
 ├── requirements.txt
 ├── README.md
-
+```
 
 ---
 
