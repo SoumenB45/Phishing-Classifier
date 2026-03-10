@@ -165,6 +165,7 @@ Users can input a website URL and receive a prediction result.
 ---
 
 ## Project Structure
+
 ```
 Phishing-Website-Detection
 │
